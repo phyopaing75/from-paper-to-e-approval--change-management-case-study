@@ -76,7 +76,3 @@ Kaizen and lean waste (motion, transport, waiting) · Change context factors · 
 These come from the Change Management (2025) and Consultancy Skills (2026) courses in my MSc in Business Analytics & Digital Transformation at the Asian Institute of Technology.
 
 *Based on my own experience on the project. Company details are kept general, and the payment amount limits are left out.*
-
----
-
-**Author:** Phyo Paing · [Portfolio](https://github.com/phyopaing75/phyopaing-portfolio) · [GitHub](https://github.com/phyopaing75) · [LinkedIn](https://www.linkedin.com/in/phyo-paing-4b0477189/)
